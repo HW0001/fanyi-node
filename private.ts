@@ -1,0 +1,4 @@
+const private = {
+  appid: "",
+  sign: "",
+};
