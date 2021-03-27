@@ -1,4 +1,0 @@
-const private = {
-  appid: "",
-  sign: "",
-};
