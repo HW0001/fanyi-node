@@ -1,13 +1,13 @@
 {
-  "name": "fanyi",
+  "name": "sim-fanyi",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./dist/cli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin":{
-    "fy":"cli/"
+    "fy":"/dist/cli.js"
   },
   "keywords": [],
   "author": "",
